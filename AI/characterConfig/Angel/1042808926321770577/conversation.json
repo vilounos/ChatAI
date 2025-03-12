@@ -1,0 +1,648 @@
+{
+    "history": [
+        {
+            "role": "user",
+            "content": "Wed Nov 13 17:49:22 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: wow"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 17:49:27 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/travis-scott-what-emoji-mouth-open-emoji-gif-13094927961417498651"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:54:44 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: ."
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:55:21 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:55:43 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: a\u017e si d\u00e1m ramen pot\u0159ebuji stebou call dob\u0159e"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:55:55 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: tak\u017ee v 19 15 bud v callu"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:55:59 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ehm with who.."
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:02 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:07 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Semnou"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:13 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Pro\u010d ja ?! \ud83d\ude2d"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:16 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Co sem udelala"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:19 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:19 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: uvid\u00ed\u0161"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:29 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Boj\u00edm se te"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:32 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83d\ude2d"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 18:56:35 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Tak se boj"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:16:32 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:17:29 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Dob\u0159e ale nebud\u00fa mluvit proto\u017ee se bud\u00fa chystat do \u0161koly pri Tom"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:18:33 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Nemuzu:((("
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:19:26 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja bych rada mluvila len te\u010f nemu\u017eu"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:19:44 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ano"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:19:53 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Yes"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:20:06 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ano"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:20:34 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: I know"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:21:07 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Viedela"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:21:26 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja sem se nestarala do toho"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:21:31 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Proto\u017ee"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:21:46 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: -_-"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:22:15 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja bych ti ple\u0161tila s gucci \u0161lapkou \ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f\ud83c\udf80"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:22:28 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ano"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:22:36 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ne"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:22:51 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Co si \u0159ikal o nem"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:23:49 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Proto\u017ee v\u0161ichny hovoria \u017ee se nem\u00e1m stara\u0165 do veci co su jejich tak ja se u\u017e od vtedy nestar\u00e1m"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:24:06 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja nemu\u017eu za to"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:25:28 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja asi nevim \u017ee budu chodi\u0165 tady proto\u017ee moje zn\u00e1mky s\u00fa v pi\u010di;D"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:25:47 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Biol\u00f3gia 4,50\ud83d\udc41\ufe0f\ud83d\udc44\ud83d\udc41\ufe0f"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:26:04 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \u0160ak sem ja u\u017e te nevidiram \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:26:12 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: JAK??"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:26:31 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: nemu\u017eu je dead"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:26:57 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Mus\u00edm \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:27:17 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Zajtra p\u00ed\u0161u 3 testy pak 2 testy v patek"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:27:24 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83c\udf80\ud83d\ude00"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:28:04 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Asi vtedy mo\u017eno budu m\u00edt \u010das"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:28:44 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Kk"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:29:07 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Btw"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:29:13 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: ja budu m\u00edt na narozky Sukuna dort \ud83e\udee6"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:29:39 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Dob\u0159e a ja smazu chaty \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:30:15 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Asi mo\u017eno"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:30:24 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83d\ude14 Mo\u017eno \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:30:35 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Dob\u0159e"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:31:26 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Monokle m\u016f\u017ee\u0161 pros\u00edm zmaza\u0165 tie spr\u00e1vy ja sem spomalen\u00e1 na tom \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:31:52 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Na po\u010d\u00edta\u010di je to l\u00edp \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:32:58 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Dekuju;D"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:34:35 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Deti v pozad\u00ed s\u00fa hladn\u00e9"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:34:42 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: \ud83d\ude14"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:35:00 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Chud\u00e1ci xD"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:35:20 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ano"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:35:35 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Aha"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:35:43 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Me taky"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:35:57 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Vim :3"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:36:01 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Lajkla sem ho"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:36:16 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Tro\u0161ka"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:36:54 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja sem dnes amen proto\u017ee sem psala dva testy ze sloviny a 2 testy z angliny te\u017e"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:37:08 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Tak\u017ee amen christus\ud83d\ude14\ud83d\ude4f\ud83c\udffc"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:37:59 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Ja jdu evajde"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:49:03 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 19:56:21 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:02:20 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Dob\u0159e ja jdu keby n\u011bco sem dead \ud83d\ude04"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:02:27 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: ok"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:16:22 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:16:33 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: ok raiden"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:16:48 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:17:04 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/fkaswift-emma-gif-21350738"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:17:34 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:17:42 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: my honest reaction"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:17:43 2024 ProBot \u2728 (administrator) in channel \ud83c\udf6c\ud835\udcdb\ud835\udcee\ud835\udcff\ud835\udcee\ud835\udcf5\ud835\udcfc\ud83c\udf6c: \u26e7\u00b0\u3002 \u22c6\u0f3a** \ud835\udd72\ud835\udd94\ud835\udd94\ud835\udd89 \ud835\udd75\ud835\udd94\ud835\udd87 \ud835\udd84\ud835\udd94\ud835\udd9a \ud835\udd73\ud835\udd86\ud835\udd9b\ud835\udd8a \ud835\udd93\ud835\udd8a\ud835\udd9d\ud835\udd99 \ud835\udd77\ud835\udd8a\ud835\udd9b\ud835\udd8a\ud835\udd91** \u0f3b\u22c6\u3002 \u00b0\u26e7, yoichi yuki :3!\n\ud835\udd84\ud835\udd94\ud835\udd9a\ud835\udd97 \ud835\udd6e\ud835\udd9a\ud835\udd97\ud835\udd97\ud835\udd8a\ud835\udd93\ud835\udd99 \ud835\udd91\ud835\udd8a\ud835\udd9b\ud835\udd8a\ud835\udd91 \ud835\udd8e\ud835\udd98 : 4\n[.](https://tenor.com/view/bongo-halloween-drums-cat-bongo-cat-gif-15084416)"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:17:52 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: and?"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:18:04 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: co sme dry dry"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:18:17 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Wtf"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:18:27 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:19:13 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: mne neide mic"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:19:37 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: sak vidis ze ho mam zapnuty"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:21:50 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:26:03 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:31:59 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: .."
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 20:34:05 2024 \u2020 \ud835\udc12\ud835\udc14\ud835\udc0a\ud835\udc14\ud835\udc0d\ud835\udc00 \u2020 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:07:10 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:13:49 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/yoichi-yoichi-yukimura-camp-buddy-edit-wink-gif-6086091471802383343"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:13:53 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: cat"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:14:03 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: Help"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:14:54 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/camp-buddy-yoichi-yoichi-yukimura-keitaro-keitaro-nagame-gif-12937373989254031776"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:15:03 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/my-honest-reaction-emma-roberts-emma-robberts-slayed-illdoit-gif-14232183621615898708"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:15:14 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/fkaswift-emma-gif-21350738"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:16:01 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/scream-queens-goodmorning-emma-roberts-chanel-oberlin-gif-4530878"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:16:15 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/emma-roberts-chanel-oberlin-chanel-madison-montgomery-im-out-gif-14324538"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:17:09 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:17:53 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: "
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:28:31 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: ok"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:30:59 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: okay"
+        },
+        {
+            "role": "user",
+            "content": "Wed Nov 13 21:34:42 2024 yoichi yuki :3 in channel \ud83c\udf83\ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99\ud83c\udf83: https://tenor.com/view/camp-buddy-yoichi-yoichi-yukimura-keitaro-keitaro-nagame-gif-12937373989254031776"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 19:27:42 2024 fallen_anngel in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 19:28:10 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Ano?"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 19:28:11 2024 ProBot \u2728 (administrator) in channel \ud835\udcdb\ud835\udcee\ud835\udcff\ud835\udcee\ud835\udcf5\ud835\udcfc: \u26e7\u00b0\u3002 \u22c6\u0f3a** \ud835\udd72\ud835\udd94\ud835\udd94\ud835\udd89 \ud835\udd75\ud835\udd94\ud835\udd87 \ud835\udd84\ud835\udd94\ud835\udd9a \ud835\udd73\ud835\udd86\ud835\udd9b\ud835\udd8a \ud835\udd93\ud835\udd8a\ud835\udd9d\ud835\udd99 \ud835\udd77\ud835\udd8a\ud835\udd9b\ud835\udd8a\ud835\udd91** \u0f3b\u22c6\u3002 \u00b0\u26e7, \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5!\n\ud835\udd84\ud835\udd94\ud835\udd9a\ud835\udd97 \ud835\udd6e\ud835\udd9a\ud835\udd97\ud835\udd97\ud835\udd8a\ud835\udd93\ud835\udd99 \ud835\udd91\ud835\udd8a\ud835\udd9b\ud835\udd8a\ud835\udd91 \ud835\udd8e\ud835\udd98 : 34\n[.](https://tenor.com/view/bongo-halloween-drums-cat-bongo-cat-gif-15084416)"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 19:29:36 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: ?"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 20:55:47 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: call somebody?"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 21:12:40 2024 fallen_anngel in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Sorry"
+        },
+        {
+            "role": "user",
+            "content": "Sun Nov 17 21:12:48 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: to je v poho"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 17:43:28 2024 \ud83d\udc7bAktugawa\ud83c\udf83 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: https://tenor.com/view/cat-meme-laughing-gif-lol-funny-loud-laugh-gif-7926424135311815001"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:12:19 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Aha jen kv\u016fli tomu \u017ee jsem zakazal pos\u00edlat danielovi hitlera"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:12:29 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Really v\u00edc blb\u00fd d\u016fvod to nem\u016f\u017ee byt?"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:12:42 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: pro\u010d bych ti nem\u011bl dat ban za tohle vyd\u00edr\u00e1n\u00ed"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:13:16 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Monokumo"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:13:24 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Ty vyhro\u017euje\u0161 \ud83d\ude00"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:13:36 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: ne ja se jen pt\u00e1m"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:13:51 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Dob\u0159e dob\u0159e"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 18:52:12 2024 yoichi yuki :3 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:03:45 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 ja sem dnes pre\u010dtela asi 4 manhwy \ud83e\udd2d\ud83d\ude0c"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:04:20 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Je\u0161te \u010dekam na jinx proto\u017ee za 4 nebo 5 dn\u00ed m\u00e1 u\u017e b\u00fdt venku \ud83c\udf77\ud83d\ude42\u200d\u2195\ufe0f"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:30:42 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: A kdo se ptal?"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:31:29 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Nebu\u010f drza l\u00e1skavo dobre?"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:31:36 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Kdo sa p\u00fdtal na tv\u016fj n\u00e1zor"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:32:03 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: \u010eakujem za skazenia d\u0148a zase"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 19:57:09 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: Uklidni se, jen jsem se zeptala."
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:10:54 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:10:55 2024 \ud83d\udc7bPes\ud83c\udf83 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: "
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:17:30 2024 Michal_cz11 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: co to sakra mele\u0161"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:17:43 2024 Michal_cz11 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: mluv\u00ed\u0161 v treti osobe nebo co"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:18:34 2024 Michal_cz11 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: ake vydirani"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:38:10 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: tak kdo jinej by t\u011b sem pos\u00edlal"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:38:32 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: erm p\u0159e\u010dti si to po sob\u011b je\u0161t\u011b jednou"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 20:55:30 2024 \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: "
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 21:13:08 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 21:53:09 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udffa\ud835\udcd2\ud835\udcf8\ud835\udcfe\ud835\udcf7\ud835\udcfd\ud835\udcf2\ud835\udcf7\ud835\udcf0\ud835\udfda: 65"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 21:53:18 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udffa\ud835\udcd2\ud835\udcf8\ud835\udcfe\ud835\udcf7\ud835\udcfd\ud835\udcf2\ud835\udcf7\ud835\udcf0\ud835\udfda: \u2020 \ud835\udc08\ud835\udc12\ud835\udc00\ud835\udc01\ud835\udc04\ud835\udc0b\ud835\udc00 \ud835\udc0c\ud835\udc04\ud835\udc11\ud835\udc02\ud835\udc04\ud835\udc03 \u2020 ?"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:07:52 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: "
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:08:02 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: "
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:10:38 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:12:42 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: https://tenor.com/view/night-girl-relaxing-night-sky-gif-15477836"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:13:22 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:16:06 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:18:51 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:21:35 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:24:19 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:24:20 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: https://youtube.com/watch?v=Qfm6nfz1QNQ"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:27:03 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: End of **`Harry Styles - As It Was (Lyrics)`**, started playing **`Harry Styles - As It Was (Lyrics)`**"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:27:04 2024 GEEK Music (administrator) in channel \ud835\udcd1\ud835\udcf8\ud835\udcfd\ud835\udcfc: https://youtube.com/watch?v=Qfm6nfz1QNQ"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:27:28 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: @everyone vem te si catku nebo si j\u00ed vemu"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 22:34:02 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        },
+        {
+            "role": "user",
+            "content": "Mon Nov 18 23:06:11 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udffa\ud835\udcd2\ud835\udcf8\ud835\udcfe\ud835\udcf7\ud835\udcfd\ud835\udcf2\ud835\udcf7\ud835\udcf0\ud835\udfda: 66"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 20:28:50 2024 yoichi yuki :3 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: "
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 20:47:27 2024 yoichi yuki :3 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:05:11 2024 \ud83e\udd65 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: "
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:10:23 2024 \ud83d\udc7bAktugawa\ud83c\udf83 in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: x"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:57:58 2024 Invite Tracker (administrator) in channel invites: Wick#3938 joined using OAuth."
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:58:58 2024 \u26e7\ud835\udd78\ud835\udd94\ud835\udd93\ud835\udd94\ud835\udcf4\ud835\udd9a\ud835\udd92\ud835\udd86\u26e5 (administrator) in channel commands: w!statics No / One ?add 11"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:58:58 2024 Wick (administrator) in channel commands: "
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:59:23 2024 No / One (administrator) in channel commands: w!setup"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 21:59:23 2024 Wick (administrator) in channel commands: "
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 22:00:06 2024 No / One (administrator) in channel commands: w!setup"
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 22:00:06 2024 Wick (administrator) in channel commands: "
+        },
+        {
+            "role": "user",
+            "content": "Tue Nov 19 22:20:04 2024 \ud835\udcaf\ud835\udcbe\ud835\udcc1\ud835\udcc1\ud835\udcce\ud835\udcb6\ud835\udcc8\u2730 (administrator) in channel \ud835\udd6e\ud835\udd8d\ud835\udd86\ud835\udd99: cat"
+        }
+    ]
+}

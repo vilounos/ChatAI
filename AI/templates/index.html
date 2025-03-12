@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Panel - vilounos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(10, 10, 50);
+            color: #ecf0f1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: #34495e;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 500px;
+        }
+        h1 {
+            text-align: center;
+            color: #ecf0f1;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            color: #ecf0f1;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+            border: 3px solid #ccc;
+            border-radius: 10px;
+            background-color: #ecf0f1;
+            color: #2c3e50;
+        }
+        .radiobutton-group {
+            display: flex;
+            justify-content: space-between;
+        }
+        .radiobutton-group label {
+            margin-right: 10px;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: 5px solid #000000;
+            padding: 20px 228.3px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 0px;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI Panel - vilounos</h1>
+        <form action="/start" method="post" class="form-group">
+            <div class="form-group">
+                <label for="mode">Mode:</label>
+                <div class="radiobutton-group">
+                    <label><input type="radio" name="mode" value="1" {% if mode == 1 %}checked{% endif %}> Mic / Text</label>
+                    <label><input type="radio" name="mode" value="2" {% if mode == 2 %}checked{% endif %}> YT Live</label>
+                    <label><input type="radio" name="mode" value="3" {% if mode == 3 %}checked{% endif %}> Twitch Chat</label>
+					<label><input type="radio" name="mode" value="4" {% if mode == 4 %}checked{% endif %}> Discord</label>
+					<label><input type="radio" name="mode" value="5" {% if mode == 5 %}checked{% endif %}> vilounos</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="charLang">TTS Language:</label>
+                <div class="radiobutton-group">
+                    <label><input type="radio" name="charLang" value="1" {% if charLang == 1 %}checked{% endif %}> English</label>
+                    <label><input type="radio" name="charLang" value="2" {% if charLang == 2 %}checked{% endif %}> Japanese</label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="charName">Name:</label>
+                <input type="text" id="charName" name="charName" value="{{ charName }}">
+            </div>
+            <button type="submit">Start</button>
+        </form>
+    </div>
+</body>
+</html>
